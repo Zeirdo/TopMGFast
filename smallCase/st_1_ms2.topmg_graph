@@ -1,0 +1,1435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simple_prsm_list>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>165</spectrum_id>
+  <spectrum_scan>347</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>6311.3174950000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|Q8ZPU8|ASTE_SALTY</sequence_name>
+  <sequence_desc>Succinylglutamate desuccinylase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=astE PE=2 SV=1</sequence_desc>
+  <proteoform_mass>35618.2402181458</proteoform_mass>
+  <score>10.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-23277.8265281344</shift>
+    <shift>-12730.5082936166</shift>
+    <shift>-14184.3084185386</shift>
+    <shift>-26577.5779184589</shift>
+    <shift>-5878.1005751450</shift>
+    <shift>-1162.5692457762</shift>
+    <shift>-1364.6646027127</shift>
+    <shift>-5707.0361839848</shift>
+    <shift>-21383.9909439357</shift>
+    <shift>-21282.9432654675</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-19955.1123026733</shift>
+    <shift>-27331.8731657375</shift>
+    <shift>-20054.1807165869</shift>
+    <shift>-13143.6837323373</shift>
+    <shift>-27184.8047518239</shift>
+    <shift>-28698.5581272300</shift>
+    <shift>-11186.6991011198</shift>
+    <shift>-25929.1598987543</shift>
+    <shift>-2671.4662399773</shift>
+    <shift>-19513.8535688086</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>166</spectrum_id>
+  <spectrum_scan>349</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>6311.3307250000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|P26219|CDH_SALTY</sequence_name>
+  <sequence_desc>CDP-diacylglycerol pyrophosphatase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=cdh PE=3 SV=2</sequence_desc>
+  <proteoform_mass>28349.4881315820</proteoform_mass>
+  <score>11.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-5424.8519206797</shift>
+    <shift>-23096.8422279452</shift>
+    <shift>-18039.3207322663</shift>
+    <shift>-23284.9041767538</shift>
+    <shift>-7352.8497596101</shift>
+    <shift>-488.2780895860</shift>
+    <shift>-17952.2887038626</shift>
+    <shift>-4804.5488623945</shift>
+    <shift>-15077.7851906791</shift>
+    <shift>-13210.8304030413</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-10091.1731100833</shift>
+    <shift>-3386.7140697747</shift>
+    <shift>-13161.7501821303</shift>
+    <shift>1375.6872339437</shift>
+    <shift>-16991.5840164374</shift>
+    <shift>-4049.1143824947</shift>
+    <shift>-7770.9647758434</shift>
+    <shift>-20598.4746941970</shift>
+    <shift>-8454.3474814316</shift>
+    <shift>-21083.6868717900</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>172</spectrum_id>
+  <spectrum_scan>362</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>5348.7998650000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|P26219|CDH_SALTY</sequence_name>
+  <sequence_desc>CDP-diacylglycerol pyrophosphatase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=cdh PE=3 SV=2</sequence_desc>
+  <proteoform_mass>28349.4881315820</proteoform_mass>
+  <score>10.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-9078.7634749934</shift>
+    <shift>-11988.2499238758</shift>
+    <shift>-9777.0869939402</shift>
+    <shift>-1152.6365374934</shift>
+    <shift>-1251.7049514070</shift>
+    <shift>-14591.5665307249</shift>
+    <shift>-24892.7097809785</shift>
+    <shift>-5424.8519206797</shift>
+    <shift>-1747.0470209752</shift>
+    <shift>-15327.9281665148</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-14756.6092525361</shift>
+    <shift>-12023.1555430759</shift>
+    <shift>-14912.7103635591</shift>
+    <shift>-19010.7341238955</shift>
+    <shift>-986.5102944550</shift>
+    <shift>-21931.1907887672</shift>
+    <shift>-10497.4248178698</shift>
+    <shift>-13987.2221302728</shift>
+    <shift>-12965.6802214412</shift>
+    <shift>-13629.0546537659</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>174</spectrum_id>
+  <spectrum_scan>366</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>6295.3284150000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|P26219|CDH_SALTY</sequence_name>
+  <sequence_desc>CDP-diacylglycerol pyrophosphatase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=cdh PE=3 SV=2</sequence_desc>
+  <proteoform_mass>28349.4881315820</proteoform_mass>
+  <score>12.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-4120.2587515756</shift>
+    <shift>-17952.2887038626</shift>
+    <shift>-10413.4716565957</shift>
+    <shift>-12788.6390204628</shift>
+    <shift>-23788.1897940723</shift>
+    <shift>-7109.7278535727</shift>
+    <shift>-13509.9421383169</shift>
+    <shift>-15578.0711423505</shift>
+    <shift>-23096.8422279452</shift>
+    <shift>-4248.3173290802</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-10107.1754200833</shift>
+    <shift>-13177.7524921303</shift>
+    <shift>-4595.3655899504</shift>
+    <shift>-10734.4730586347</shift>
+    <shift>-4136.1538062793</shift>
+    <shift>-11076.6269930759</shift>
+    <shift>1715.8545084494</shift>
+    <shift>-21099.6891817900</shift>
+    <shift>-12682.5261037659</shift>
+    <shift>-12625.5046400458</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>174</spectrum_id>
+  <spectrum_scan>366</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>6295.3284150000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|Q8ZPU8|ASTE_SALTY</sequence_name>
+  <sequence_desc>Succinylglutamate desuccinylase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=astE PE=2 SV=1</sequence_desc>
+  <proteoform_mass>35618.2402181458</proteoform_mass>
+  <score>12.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-23035.6998710689</shift>
+    <shift>-6276.2807243343</shift>
+    <shift>-30853.7307013871</shift>
+    <shift>-3454.7833168464</shift>
+    <shift>-5878.1005751450</shift>
+    <shift>-31052.8627781863</shift>
+    <shift>-30924.7678151717</shift>
+    <shift>-24731.6306758098</shift>
+    <shift>-6375.3491382479</shift>
+    <shift>-1364.6646027127</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-19971.1013826733</shift>
+    <shift>-2899.6077978691</shift>
+    <shift>-19329.7265564267</shift>
+    <shift>-19529.8426488086</shift>
+    <shift>-20722.4402173317</shift>
+    <shift>-13230.7099261219</shift>
+    <shift>-1461.7370271822</shift>
+    <shift>-27200.7938318239</shift>
+    <shift>-27743.0427292796</shift>
+    <shift>-15638.9165117724</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>177</spectrum_id>
+  <spectrum_scan>372</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>6295.3398250000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|P26219|CDH_SALTY</sequence_name>
+  <sequence_desc>CDP-diacylglycerol pyrophosphatase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=cdh PE=3 SV=2</sequence_desc>
+  <proteoform_mass>28349.4881315820</proteoform_mass>
+  <score>14.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-4120.2587515756</shift>
+    <shift>-7109.7278535727</shift>
+    <shift>-14962.7582476563</shift>
+    <shift>-4248.3173290802</shift>
+    <shift>-13509.9421383169</shift>
+    <shift>-21850.2480134697</shift>
+    <shift>-7913.1680740380</shift>
+    <shift>-7352.8497596101</shift>
+    <shift>-16384.4932703997</shift>
+    <shift>-23788.1897940723</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-10107.1640100833</shift>
+    <shift>-13177.7410821303</shift>
+    <shift>-11076.6155830759</shift>
+    <shift>-2482.2697751213</shift>
+    <shift>1715.8659184494</shift>
+    <shift>-11674.9594435462</shift>
+    <shift>-12682.5146937659</shift>
+    <shift>-11405.7742685450</shift>
+    <shift>2286.1131018281</shift>
+    <shift>-14511.4037105193</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>177</spectrum_id>
+  <spectrum_scan>372</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>6295.3398250000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|Q8ZPU8|ASTE_SALTY</sequence_name>
+  <sequence_desc>Succinylglutamate desuccinylase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=astE PE=2 SV=1</sequence_desc>
+  <proteoform_mass>35618.2402181458</proteoform_mass>
+  <score>10.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-6276.2807243343</shift>
+    <shift>-17073.7619445775</shift>
+    <shift>-30853.7307013871</shift>
+    <shift>-23035.6998710689</shift>
+    <shift>-5878.1005751450</shift>
+    <shift>-3454.7833168464</shift>
+    <shift>-16636.5484295731</shift>
+    <shift>-6375.3491382479</shift>
+    <shift>-12730.5082936166</shift>
+    <shift>-4293.2269509285</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-19971.0899726733</shift>
+    <shift>-20722.4288073317</shift>
+    <shift>-3678.9889894352</shift>
+    <shift>-1461.7256171822</shift>
+    <shift>-24832.5549815900</shift>
+    <shift>-2899.5963878691</shift>
+    <shift>270.1860920840</shift>
+    <shift>-27913.1368469779</shift>
+    <shift>-27842.0997331933</shift>
+    <shift>-14891.5710777110</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>182</spectrum_id>
+  <spectrum_scan>382</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>6295.3485550000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|P26219|CDH_SALTY</sequence_name>
+  <sequence_desc>CDP-diacylglycerol pyrophosphatase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=cdh PE=3 SV=2</sequence_desc>
+  <proteoform_mass>28349.4881315820</proteoform_mass>
+  <score>10.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-4120.2587515756</shift>
+    <shift>-4248.3173290802</shift>
+    <shift>-16883.7323314464</shift>
+    <shift>-12625.5756919300</shift>
+    <shift>-6601.4592832990</shift>
+    <shift>-2813.5706367130</shift>
+    <shift>-14962.7582476563</shift>
+    <shift>-17952.2887038626</shift>
+    <shift>-23788.1897940723</shift>
+    <shift>-6092.1518679076</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-10107.1552800833</shift>
+    <shift>-11405.7655385450</shift>
+    <shift>-4136.1336662793</shift>
+    <shift>-4595.3454499504</shift>
+    <shift>-8800.4472003627</shift>
+    <shift>-12625.4845000458</shift>
+    <shift>2286.1218318281</shift>
+    <shift>-10734.4529186347</shift>
+    <shift>-11076.6068530759</shift>
+    <shift>-11561.8666495681</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>188</spectrum_id>
+  <spectrum_scan>394</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>6295.3368250000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|Q8ZPU8|ASTE_SALTY</sequence_name>
+  <sequence_desc>Succinylglutamate desuccinylase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=astE PE=2 SV=1</sequence_desc>
+  <proteoform_mass>35618.2402181458</proteoform_mass>
+  <score>11.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-6276.2807243343</shift>
+    <shift>-17073.7619445775</shift>
+    <shift>-14939.6210384489</shift>
+    <shift>-2805.4384533176</shift>
+    <shift>-23035.6998710689</shift>
+    <shift>-3317.7244049889</shift>
+    <shift>-23277.8265281344</shift>
+    <shift>-16523.4643655950</shift>
+    <shift>-2131.1095742060</shift>
+    <shift>-23390.9105921125</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-19971.0929726733</shift>
+    <shift>-27200.7854218239</shift>
+    <shift>-20722.4318073317</shift>
+    <shift>-27743.0343192796</shift>
+    <shift>-1461.7286171822</shift>
+    <shift>-24832.5579815900</shift>
+    <shift>1374.7758500101</shift>
+    <shift>-14458.3667107150</shift>
+    <shift>-19713.9554165713</shift>
+    <shift>-3678.9919894352</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>198</spectrum_id>
+  <spectrum_scan>414</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>6295.3337850000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|P26219|CDH_SALTY</sequence_name>
+  <sequence_desc>CDP-diacylglycerol pyrophosphatase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=cdh PE=3 SV=2</sequence_desc>
+  <proteoform_mass>28349.4881315820</proteoform_mass>
+  <score>15.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-4120.2587515756</shift>
+    <shift>-4248.3173290802</shift>
+    <shift>-23958.2953217705</shift>
+    <shift>-17952.2887038626</shift>
+    <shift>-23788.1897940723</shift>
+    <shift>-19129.9494817805</shift>
+    <shift>-7109.7278535727</shift>
+    <shift>-12625.5756919300</shift>
+    <shift>-7352.8497596101</shift>
+    <shift>-13509.9421383169</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-10107.1700500833</shift>
+    <shift>-13177.7471221303</shift>
+    <shift>-12682.5207337659</shift>
+    <shift>-19986.1787466736</shift>
+    <shift>-4136.1484362793</shift>
+    <shift>-10734.4676886347</shift>
+    <shift>-7786.9617158434</shift>
+    <shift>-4595.3602199504</shift>
+    <shift>-12625.4992700458</shift>
+    <shift>-6568.3372638665</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>198</spectrum_id>
+  <spectrum_scan>414</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>6295.3337850000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|Q8ZPU8|ASTE_SALTY</sequence_name>
+  <sequence_desc>Succinylglutamate desuccinylase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=astE PE=2 SV=1</sequence_desc>
+  <proteoform_mass>35618.2402181458</proteoform_mass>
+  <score>11.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-6276.2807243343</shift>
+    <shift>-17073.7619445775</shift>
+    <shift>-23390.9105921125</shift>
+    <shift>-12730.5082936166</shift>
+    <shift>-6375.3491382479</shift>
+    <shift>-3454.7833168464</shift>
+    <shift>-23277.8265281344</shift>
+    <shift>-30853.7307013871</shift>
+    <shift>-5878.1005751450</shift>
+    <shift>-23035.6998710689</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-19971.0960126733</shift>
+    <shift>-27200.7884618239</shift>
+    <shift>-24832.5610215900</shift>
+    <shift>-1461.7316571822</shift>
+    <shift>-19713.9584565713</shift>
+    <shift>-27842.1057731933</shift>
+    <shift>-19529.8372788086</shift>
+    <shift>-20575.3664334181</shift>
+    <shift>-19827.0425205495</shift>
+    <shift>-15638.9111417724</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>281</spectrum_id>
+  <spectrum_scan>580</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>9027.8257750000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|Q8ZPU8|ASTE_SALTY</sequence_name>
+  <sequence_desc>Succinylglutamate desuccinylase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=astE PE=2 SV=1</sequence_desc>
+  <proteoform_mass>35618.2402181458</proteoform_mass>
+  <score>10.0000000000</score>
+  <n_trunc_shift_list/>
+  <c_trunc_shift_list>
+    <shift>-8886.4331766453</shift>
+    <shift>-26590.4144431458</shift>
+    <shift>144.1104539363</shift>
+    <shift>-24093.0806653993</shift>
+    <shift>-1215.6882144363</shift>
+    <shift>-3084.4539626845</shift>
+    <shift>-24712.4176495866</shift>
+    <shift>4716.5882593879</shift>
+    <shift>-4490.1238017094</shift>
+    <shift>-12273.1280551511</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>282</spectrum_id>
+  <spectrum_scan>582</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>9027.8050050000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|P26219|CDH_SALTY</sequence_name>
+  <sequence_desc>CDP-diacylglycerol pyrophosphatase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=cdh PE=3 SV=2</sequence_desc>
+  <proteoform_mass>28349.4881315820</proteoform_mass>
+  <score>10.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-23441.0052877768</shift>
+    <shift>-6962.6594396591</shift>
+    <shift>-6601.4592832990</shift>
+    <shift>-13422.9101099132</shift>
+    <shift>-23788.1897940723</shift>
+    <shift>-15214.8441025366</shift>
+    <shift>-24745.6413670649</shift>
+    <shift>-4120.2587515756</shift>
+    <shift>-13880.1637583970</shift>
+    <shift>-2726.5386083093</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-18011.0430072843</shift>
+    <shift>-17752.9578211097</shift>
+    <shift>-10007.0709774860</shift>
+    <shift>-454.1651682836</shift>
+    <shift>1656.9446807063</shift>
+    <shift>-12247.2193968098</shift>
+    <shift>3216.7906931943</shift>
+    <shift>-68.9690346770</shift>
+    <shift>-4870.3693180807</shift>
+    <shift>-767.2925536238</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>282</spectrum_id>
+  <spectrum_scan>582</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>9027.8050050000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|Q8ZPU8|ASTE_SALTY</sequence_name>
+  <sequence_desc>Succinylglutamate desuccinylase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=astE PE=2 SV=1</sequence_desc>
+  <proteoform_mass>35618.2402181458</proteoform_mass>
+  <score>10.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-3980.0995655883</shift>
+    <shift>-15294.8178407612</shift>
+    <shift>-26664.6099468626</shift>
+    <shift>-1018.5157536524</shift>
+    <shift>-3737.9729085228</shift>
+    <shift>-1945.9931474713</shift>
+    <shift>-10830.6938215290</shift>
+    <shift>-1617.8184775848</shift>
+    <shift>-15873.1255905055</shift>
+    <shift>-15986.2096544837</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-12273.1488251511</shift>
+    <shift>-10167.0437444455</shift>
+    <shift>-20110.1239314943</shift>
+    <shift>-17466.7357996743</shift>
+    <shift>-12993.4719501761</shift>
+    <shift>-22201.1374800582</shift>
+    <shift>-23212.6723887543</shift>
+    <shift>-23412.7884811362</shift>
+    <shift>-11295.6405251250</shift>
+    <shift>-12521.2649175330</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>288</spectrum_id>
+  <spectrum_scan>594</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>9030.8232950000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|P26219|CDH_SALTY</sequence_name>
+  <sequence_desc>CDP-diacylglycerol pyrophosphatase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=cdh PE=3 SV=2</sequence_desc>
+  <proteoform_mass>28349.4881315820</proteoform_mass>
+  <score>10.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-6544.4378195790</shift>
+    <shift>-5993.0834539940</shift>
+    <shift>-1946.1427122645</shift>
+    <shift>-23284.9041767538</shift>
+    <shift>-12625.5756919300</shift>
+    <shift>-1463.8574292988</shift>
+    <shift>-7646.0097824907</shift>
+    <shift>-15464.9870783723</shift>
+    <shift>-18482.5488347076</shift>
+    <shift>-2045.2111261781</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-7870.9196011301</shift>
+    <shift>-4410.0973795969</shift>
+    <shift>5346.8331136981</shift>
+    <shift>3019.7292763224</shift>
+    <shift>-10571.3002052176</shift>
+    <shift>-7741.8770080427</shift>
+    <shift>-16662.3620888953</shift>
+    <shift>3490.9080457876</shift>
+    <shift>-8341.1321130759</shift>
+    <shift>-13279.6416470907</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>288</spectrum_id>
+  <spectrum_scan>594</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>9030.8232950000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|Q8ZPU8|ASTE_SALTY</sequence_name>
+  <sequence_desc>Succinylglutamate desuccinylase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=astE PE=2 SV=1</sequence_desc>
+  <proteoform_mass>35618.2402181458</proteoform_mass>
+  <score>10.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-27393.9796877282</shift>
+    <shift>-1945.9931474713</shift>
+    <shift>-3980.0995655883</shift>
+    <shift>-10069.4023137297</shift>
+    <shift>-4178.2000079057</shift>
+    <shift>-1817.9345699667</shift>
+    <shift>-12960.5985651722</shift>
+    <shift>-30387.5090813070</shift>
+    <shift>-12528.4493221901</shift>
+    <shift>-3867.0155016102</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-19141.6013642216</shift>
+    <shift>147.1079739363</shift>
+    <shift>-22753.4096179738</shift>
+    <shift>1216.7363890977</shift>
+    <shift>5865.1938530257</shift>
+    <shift>-19483.7916841726</shift>
+    <shift>-9818.9082398671</shift>
+    <shift>-51.0288538909</shift>
+    <shift>-22040.0500478699</shift>
+    <shift>-22424.2873180146</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>296</spectrum_id>
+  <spectrum_scan>610</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>7942.8864050000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|P26219|CDH_SALTY</sequence_name>
+  <sequence_desc>CDP-diacylglycerol pyrophosphatase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=cdh PE=3 SV=2</sequence_desc>
+  <proteoform_mass>28349.4881315820</proteoform_mass>
+  <score>14.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-16883.7323314464</shift>
+    <shift>-21344.0458655299</shift>
+    <shift>-7646.0097824907</shift>
+    <shift>-7352.8497596101</shift>
+    <shift>-24745.6413670649</shift>
+    <shift>-18482.5488347076</shift>
+    <shift>-18595.6328986858</shift>
+    <shift>-20243.4996638755</shift>
+    <shift>-2579.4701943957</shift>
+    <shift>-131.0404850885</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-733.6755166530</shift>
+    <shift>-10977.9466500458</shift>
+    <shift>-13332.1379968098</shift>
+    <shift>-13419.1700252135</shift>
+    <shift>-9758.2276885450</shift>
+    <shift>2060.8349794097</shift>
+    <shift>-20406.6017265820</shift>
+    <shift>-5285.9545627249</shift>
+    <shift>-5498.0342695969</shift>
+    <shift>-15360.0283364374</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>296</spectrum_id>
+  <spectrum_scan>610</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>7942.8864050000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|Q8ZPU8|ASTE_SALTY</sequence_name>
+  <sequence_desc>Succinylglutamate desuccinylase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=astE PE=2 SV=1</sequence_desc>
+  <proteoform_mass>35618.2402181458</proteoform_mass>
+  <score>14.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-17480.0060314362</shift>
+    <shift>-19508.0277764383</shift>
+    <shift>-18960.7635632709</shift>
+    <shift>-17627.0744453498</shift>
+    <shift>-9899.2967860315</shift>
+    <shift>-16936.7030327199</shift>
+    <shift>-19061.8112417391</shift>
+    <shift>-8311.3718545151</shift>
+    <shift>-23390.9105921125</shift>
+    <shift>-2961.5395643406</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-14906.7671673248</shift>
+    <shift>-18739.7341065462</shift>
+    <shift>-18179.4899005495</shift>
+    <shift>-2703.7590097861</shift>
+    <shift>-17682.1685664267</shift>
+    <shift>-728.6764381718</shift>
+    <shift>-18066.4058365713</shift>
+    <shift>-18652.7020781425</shift>
+    <shift>-19356.0197834337</shift>
+    <shift>-14578.5924974382</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>299</spectrum_id>
+  <spectrum_scan>616</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>7926.0110450000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|P26219|CDH_SALTY</sequence_name>
+  <sequence_desc>CDP-diacylglycerol pyrophosphatase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=cdh PE=3 SV=2</sequence_desc>
+  <proteoform_mass>28349.4881315820</proteoform_mass>
+  <score>13.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-21344.0458655299</shift>
+    <shift>-14591.5665307249</shift>
+    <shift>-5045.6915038773</shift>
+    <shift>-12369.3857659008</shift>
+    <shift>-2102.2325898982</shift>
+    <shift>-7800.0840100599</shift>
+    <shift>-18296.4695217575</shift>
+    <shift>-18039.3207322663</shift>
+    <shift>-15715.1300542080</shift>
+    <shift>-15077.7851906791</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-15188.8417476288</shift>
+    <shift>-8476.4927900833</shift>
+    <shift>-15319.8822327173</shift>
+    <shift>-8379.4400262342</shift>
+    <shift>-13436.0453852135</shift>
+    <shift>-750.5508766530</shift>
+    <shift>-18208.4330727600</shift>
+    <shift>-8690.5881470197</shift>
+    <shift>-5972.1632780807</shift>
+    <shift>-13349.0133568098</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>299</spectrum_id>
+  <spectrum_scan>616</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>7926.0110450000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|Q8ZPU8|ASTE_SALTY</sequence_name>
+  <sequence_desc>Succinylglutamate desuccinylase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=astE PE=2 SV=1</sequence_desc>
+  <proteoform_mass>35618.2402181458</proteoform_mass>
+  <score>10.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-18960.7635632709</shift>
+    <shift>-17480.0060314362</shift>
+    <shift>-19436.9906626537</shift>
+    <shift>-7652.0228490949</shift>
+    <shift>-27086.7900960518</shift>
+    <shift>-19061.8112417391</shift>
+    <shift>-13272.8007872182</shift>
+    <shift>-22560.4898014747</shift>
+    <shift>-4560.3852424758</shift>
+    <shift>-5456.8932081491</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-8078.2091741673</shift>
+    <shift>-18857.6571450144</shift>
+    <shift>-23201.8837615900</shift>
+    <shift>-7386.8173604449</shift>
+    <shift>-24030.2702747167</shift>
+    <shift>-24314.4663487543</shift>
+    <shift>-6800.5350376051</shift>
+    <shift>-11268.8377044455</shift>
+    <shift>-18568.5297596742</shift>
+    <shift>-4273.3007210882</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>300</spectrum_id>
+  <spectrum_scan>618</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>7924.8959350000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|Q8ZPU8|ASTE_SALTY</sequence_name>
+  <sequence_desc>Succinylglutamate desuccinylase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=astE PE=2 SV=1</sequence_desc>
+  <proteoform_mass>35618.2402181458</proteoform_mass>
+  <score>11.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-19508.0277764383</shift>
+    <shift>-6276.2807243343</shift>
+    <shift>-16936.7030327199</shift>
+    <shift>-18960.7635632709</shift>
+    <shift>-17993.3011508108</shift>
+    <shift>-5878.1005751450</shift>
+    <shift>-31938.2707550331</shift>
+    <shift>-22560.4898014747</shift>
+    <shift>-7652.0228490949</shift>
+    <shift>-20489.5561432041</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-11269.9528144455</shift>
+    <shift>-23304.0465500582</shift>
+    <shift>-24967.8994983984</shift>
+    <shift>2449.9921621673</shift>
+    <shift>-958.8193860637</shift>
+    <shift>-9303.9354861186</shift>
+    <shift>-6801.6501476051</shift>
+    <shift>-5053.7131948558</shift>
+    <shift>-19276.9574895846</shift>
+    <shift>-18084.3963065713</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>300</spectrum_id>
+  <spectrum_scan>618</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>7924.8959350000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|P26219|CDH_SALTY</sequence_name>
+  <sequence_desc>CDP-diacylglycerol pyrophosphatase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=cdh PE=3 SV=2</sequence_desc>
+  <proteoform_mass>28349.4881315820</proteoform_mass>
+  <score>10.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-2451.3752313811</shift>
+    <shift>-19016.8654178024</shift>
+    <shift>-16883.7323314464</shift>
+    <shift>-21344.0458655299</shift>
+    <shift>-20243.4996638755</shift>
+    <shift>-4561.4633418670</shift>
+    <shift>-9362.9119301318</shift>
+    <shift>-12369.3857659008</shift>
+    <shift>-14591.5665307249</shift>
+    <shift>-20572.6583493447</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-9217.9896026129</shift>
+    <shift>-751.6659866530</shift>
+    <shift>5180.3467620071</shift>
+    <shift>-15378.0188064374</shift>
+    <shift>-8008.3607762735</shift>
+    <shift>-7421.0427961984</shift>
+    <shift>-9776.2181585450</shift>
+    <shift>-1399.0050960953</shift>
+    <shift>-9104.9055386347</shift>
+    <shift>-13437.1604952135</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>307</spectrum_id>
+  <spectrum_scan>632</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>8077.8840950000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|P26219|CDH_SALTY</sequence_name>
+  <sequence_desc>CDP-diacylglycerol pyrophosphatase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=cdh PE=3 SV=2</sequence_desc>
+  <proteoform_mass>28349.4881315820</proteoform_mass>
+  <score>10.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-15715.1300542080</shift>
+    <shift>-12369.3857659008</shift>
+    <shift>-15828.2141181862</shift>
+    <shift>-14834.6996701516</shift>
+    <shift>-19455.0703424467</shift>
+    <shift>-12282.3537374971</shift>
+    <shift>-2265.2959184310</shift>
+    <shift>-2579.4701943957</shift>
+    <shift>-5045.6915038773</shift>
+    <shift>-1676.0099071906</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-13284.1723352135</shift>
+    <shift>822.0507137291</shift>
+    <shift>-4091.4397220922</shift>
+    <shift>-7268.0546361984</shift>
+    <shift>-6205.4863616873</shift>
+    <shift>5957.6409404182</shift>
+    <shift>5333.3349220071</shift>
+    <shift>-1018.8899446770</shift>
+    <shift>-6687.7941114316</shift>
+    <shift>1742.5739355450</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>315</spectrum_id>
+  <spectrum_scan>648</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>7810.8438450000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|P26219|CDH_SALTY</sequence_name>
+  <sequence_desc>CDP-diacylglycerol pyrophosphatase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=cdh PE=3 SV=2</sequence_desc>
+  <proteoform_mass>28349.4881315820</proteoform_mass>
+  <score>11.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-12369.3857659008</shift>
+    <shift>-16883.7323314464</shift>
+    <shift>-9777.0869939402</shift>
+    <shift>-14421.4610030267</shift>
+    <shift>-10611.5720989130</shift>
+    <shift>-10872.6834402668</shift>
+    <shift>-25104.8622588703</shift>
+    <shift>-19584.1129355340</shift>
+    <shift>-9890.1710579183</shift>
+    <shift>-9191.8475389716</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-9789.2225700768</shift>
+    <shift>2875.2003539437</shift>
+    <shift>-9890.2702485450</shift>
+    <shift>-6271.4516558434</shift>
+    <shift>-7535.0948861984</shift>
+    <shift>-15995.3565137559</shift>
+    <shift>-16066.3936275405</shift>
+    <shift>-16165.4620414542</shift>
+    <shift>-16635.7221722992</shift>
+    <shift>-13551.2125852135</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>332</spectrum_id>
+  <spectrum_scan>682</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>7693.8359250000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|P26219|CDH_SALTY</sequence_name>
+  <sequence_desc>CDP-diacylglycerol pyrophosphatase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=cdh PE=3 SV=2</sequence_desc>
+  <proteoform_mass>28349.4881315820</proteoform_mass>
+  <score>11.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-19260.9899668691</shift>
+    <shift>-16883.7323314464</shift>
+    <shift>-12369.3857659008</shift>
+    <shift>-8317.3740440536</shift>
+    <shift>-17468.9717864150</shift>
+    <shift>-15828.2141181862</shift>
+    <shift>-15715.1300542080</shift>
+    <shift>-14834.6996701516</shift>
+    <shift>-14265.3598920037</shift>
+    <shift>-14178.3278636000</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-16867.7570353220</shift>
+    <shift>-13425.0873657868</shift>
+    <shift>-19086.9269011097</shift>
+    <shift>-4475.4878920922</shift>
+    <shift>-11779.2449821303</shift>
+    <shift>-9449.0496126129</shift>
+    <shift>438.0025437291</shift>
+    <shift>-17843.2483478722</shift>
+    <shift>-17613.1580763167</shift>
+    <shift>-13581.1884768098</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>440</spectrum_id>
+  <spectrum_scan>898</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>10262.6668350000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|P26219|CDH_SALTY</sequence_name>
+  <sequence_desc>CDP-diacylglycerol pyrophosphatase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=cdh PE=3 SV=2</sequence_desc>
+  <proteoform_mass>28349.4881315820</proteoform_mass>
+  <score>11.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-131.0404850885</shift>
+    <shift>-3267.7518485298</shift>
+    <shift>-9362.9119301318</shift>
+    <shift>-2265.2959184310</shift>
+    <shift>-18959.8439540823</shift>
+    <shift>-17839.2046398844</shift>
+    <shift>-7109.7278535727</shift>
+    <shift>-2870.5921004331</shift>
+    <shift>-3081.6877917224</shift>
+    <shift>-4351.3265140397</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-2252.8244585990</shift>
+    <shift>-10728.1978782821</shift>
+    <shift>4554.6617081538</shift>
+    <shift>-1906.6569820922</shift>
+    <shift>-12243.9192848535</shift>
+    <shift>4251.5728163224</shift>
+    <shift>-6139.8370000833</shift>
+    <shift>-8350.9766283694</shift>
+    <shift>-9339.4566652176</shift>
+    <shift>-8051.8132514412</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>440</spectrum_id>
+  <spectrum_scan>898</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>10262.6668350000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|Q8ZPU8|ASTE_SALTY</sequence_name>
+  <sequence_desc>Succinylglutamate desuccinylase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=astE PE=2 SV=1</sequence_desc>
+  <proteoform_mass>35618.2402181458</proteoform_mass>
+  <score>10.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-14882.5995747289</shift>
+    <shift>-1817.9345699667</shift>
+    <shift>-15986.2096544837</shift>
+    <shift>-13116.6996761952</shift>
+    <shift>-2259.1681517107</shift>
+    <shift>-4461.3168285622</shift>
+    <shift>-1263.6169242444</shift>
+    <shift>-1105.5477820561</shift>
+    <shift>-15294.8178407612</shift>
+    <shift>-691.2999472279</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-143.9104829691</shift>
+    <shift>-17723.6573819042</shift>
+    <shift>-1535.4750122297</shift>
+    <shift>-717.0780363012</shift>
+    <shift>487.4337118541</shift>
+    <shift>-18875.2621014943</shift>
+    <shift>5115.9377320538</shift>
+    <shift>-21263.4808917992</shift>
+    <shift>-18251.9481441726</shift>
+    <shift>-23945.8098369779</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>450</spectrum_id>
+  <spectrum_scan>918</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>9503.1885050000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|Q8ZPU8|ASTE_SALTY</sequence_name>
+  <sequence_desc>Succinylglutamate desuccinylase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=astE PE=2 SV=1</sequence_desc>
+  <proteoform_mass>35618.2402181458</proteoform_mass>
+  <score>11.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-22356.3999238410</shift>
+    <shift>-2259.1681517107</shift>
+    <shift>-360.1103555515</shift>
+    <shift>-620.2628334433</shift>
+    <shift>-25120.8005946683</shift>
+    <shift>-246.0674281113</shift>
+    <shift>-17323.9049204131</shift>
+    <shift>-5878.1005751450</shift>
+    <shift>-33933.3285511923</shift>
+    <shift>-131.0404850885</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>137.1879009707</shift>
+    <shift>3607.0773651714</shift>
+    <shift>-9063.4109530679</shift>
+    <shift>-9160.4637169171</shift>
+    <shift>5023.8611117542</shift>
+    <shift>-24634.2510531933</shift>
+    <shift>-740.3254844363</shift>
+    <shift>-25205.5411044432</shift>
+    <shift>-9346.5430298672</shift>
+    <shift>-16991.3522996742</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>451</spectrum_id>
+  <spectrum_scan>920</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>9502.2492450000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|Q8ZPU8|ASTE_SALTY</sequence_name>
+  <sequence_desc>Succinylglutamate desuccinylase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=astE PE=2 SV=1</sequence_desc>
+  <proteoform_mass>35618.2402181458</proteoform_mass>
+  <score>12.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-360.1103555515</shift>
+    <shift>-3511.8047805665</shift>
+    <shift>-3624.8888445447</shift>
+    <shift>-131.0404850885</shift>
+    <shift>-12960.5985651722</shift>
+    <shift>-29614.1712920198</shift>
+    <shift>-29860.2387201312</shift>
+    <shift>-27280.8956237501</shift>
+    <shift>-6179.2279604852</shift>
+    <shift>-2131.1095742060</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-585.1636334133</shift>
+    <shift>-1144.3961697861</shift>
+    <shift>-1007.3372579286</shift>
+    <shift>-11005.3174628878</shift>
+    <shift>-904.3280729691</shift>
+    <shift>136.2486409707</shift>
+    <shift>-741.2647444363</shift>
+    <shift>-10209.8684090720</shift>
+    <shift>-6065.7486853815</shift>
+    <shift>-22023.8984817992</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>451</spectrum_id>
+  <spectrum_scan>920</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>9502.2492450000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|P26219|CDH_SALTY</sequence_name>
+  <sequence_desc>CDP-diacylglycerol pyrophosphatase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=cdh PE=3 SV=2</sequence_desc>
+  <proteoform_mass>28349.4881315820</proteoform_mass>
+  <score>11.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-17353.9448433922</shift>
+    <shift>-131.0404850885</shift>
+    <shift>-387.2304111178</shift>
+    <shift>-708.3628818388</shift>
+    <shift>-3196.7147347452</shift>
+    <shift>-13509.9421383169</shift>
+    <shift>-21588.1670432927</shift>
+    <shift>-8759.5990354376</shift>
+    <shift>-20901.8170348139</shift>
+    <shift>-3081.6877917224</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-761.1430986456</shift>
+    <shift>178.3482139047</shift>
+    <shift>-929.2329762793</shift>
+    <shift>-7869.7061630759</shift>
+    <shift>-17120.4444389214</shift>
+    <shift>-11772.7751568098</shift>
+    <shift>405.4752053230</shift>
+    <shift>-9111.3942183694</shift>
+    <shift>-6900.2545900833</shift>
+    <shift>-12907.2841110044</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>504</spectrum_id>
+  <spectrum_scan>1026</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>16561.3607850000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|P26219|CDH_SALTY</sequence_name>
+  <sequence_desc>CDP-diacylglycerol pyrophosphatase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=cdh PE=3 SV=2</sequence_desc>
+  <proteoform_mass>28349.4881315820</proteoform_mass>
+  <score>10.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-2579.4701943957</shift>
+    <shift>-8041.2266515427</shift>
+    <shift>-15077.7851906791</shift>
+    <shift>-13422.9101099132</shift>
+    <shift>-5310.8089932395</shift>
+    <shift>-11988.2499238758</shift>
+    <shift>-968.5153597306</shift>
+    <shift>-5864.0408609066</shift>
+    <shift>-11576.0316578434</shift>
+    <shift>-5793.0037471220</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-7670.1146263908</shift>
+    <shift>-7798.1732038955</shift>
+    <shift>-2052.2826783694</shift>
+    <shift>-6416.4330957713</shift>
+    <shift>-10061.3328989214</shift>
+    <shift>2479.0652841566</shift>
+    <shift>-4557.5625057868</shift>
+    <shift>-4429.5039282821</shift>
+    <shift>525.0948887670</shift>
+    <shift>7464.5867453230</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>535</spectrum_id>
+  <spectrum_scan>1088</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>9211.9211550000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|Q8ZPU8|ASTE_SALTY</sequence_name>
+  <sequence_desc>Succinylglutamate desuccinylase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=astE PE=2 SV=1</sequence_desc>
+  <proteoform_mass>35618.2402181458</proteoform_mass>
+  <score>13.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-131.0404850885</shift>
+    <shift>-13628.9816051131</shift>
+    <shift>-14184.3084185386</shift>
+    <shift>-2316.1896154308</shift>
+    <shift>-360.1103555515</shift>
+    <shift>-12730.5082936166</shift>
+    <shift>-2463.2580293444</shift>
+    <shift>-13499.9390120258</shift>
+    <shift>-1105.5477820561</shift>
+    <shift>-17073.7619445775</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-1434.7242597861</shift>
+    <shift>-11877.9369838618</shift>
+    <shift>-22243.1894580146</shift>
+    <shift>-15812.8470769117</shift>
+    <shift>-8927.4491379991</shift>
+    <shift>-1297.6653479286</shift>
+    <shift>1541.8877412215</shift>
+    <shift>-1194.6561629691</shift>
+    <shift>-8286.0954411198</shift>
+    <shift>-8129.9943300968</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>552</spectrum_id>
+  <spectrum_scan>1122</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>9211.9348350000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|P26219|CDH_SALTY</sequence_name>
+  <sequence_desc>CDP-diacylglycerol pyrophosphatase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=cdh PE=3 SV=2</sequence_desc>
+  <proteoform_mass>28349.4881315820</proteoform_mass>
+  <score>10.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-3536.9370235310</shift>
+    <shift>-9680.0342300910</shift>
+    <shift>-16883.7323314464</shift>
+    <shift>-19318.0114305891</shift>
+    <shift>-3267.7518485298</shift>
+    <shift>-3196.7147347452</shift>
+    <shift>-17468.9717864150</shift>
+    <shift>-17353.9448433922</shift>
+    <shift>-16131.3393955275</shift>
+    <shift>-12151.3132524085</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-10390.1886652176</shift>
+    <shift>-13765.8590457713</shift>
+    <shift>-4757.2766018653</shift>
+    <shift>3672.0195857876</shift>
+    <shift>-15019.5405763908</shift>
+    <shift>-14247.0810174604</shift>
+    <shift>-11906.9884557868</shift>
+    <shift>-11594.8087005194</shift>
+    <shift>5414.8605897199</shift>
+    <shift>-10553.2519937503</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>601</spectrum_id>
+  <spectrum_scan>1220</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>6461.4031750000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|Q8ZPU8|ASTE_SALTY</sequence_name>
+  <sequence_desc>Succinylglutamate desuccinylase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=astE PE=2 SV=1</sequence_desc>
+  <proteoform_mass>35618.2402181458</proteoform_mass>
+  <score>10.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-7488.9595205621</shift>
+    <shift>-30059.3344114205</shift>
+    <shift>-2316.1896154308</shift>
+    <shift>-23760.1481966100</shift>
+    <shift>-23647.0641326318</shift>
+    <shift>-4675.4121854986</shift>
+    <shift>-2003.0146111914</shift>
+    <shift>-22831.6430076412</shift>
+    <shift>-13871.1082621786</shift>
+    <shift>-16792.6495405962</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-4788.4857347643</shift>
+    <shift>-27747.0734969779</shift>
+    <shift>-17716.9778750794</shift>
+    <shift>-20740.4502495846</shift>
+    <shift>-60.9991210189</shift>
+    <shift>-21269.7515169676</shift>
+    <shift>-4919.5262198529</shift>
+    <shift>-15646.9058085798</shift>
+    <shift>-28176.2893206586</shift>
+    <shift>-14839.5506551511</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>602</spectrum_id>
+  <spectrum_scan>1222</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>11189.1519950000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|Q8ZPU8|ASTE_SALTY</sequence_name>
+  <sequence_desc>Succinylglutamate desuccinylase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=astE PE=2 SV=1</sequence_desc>
+  <proteoform_mass>35618.2402181458</proteoform_mass>
+  <score>12.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-15294.8178407612</shift>
+    <shift>-12730.5082936166</shift>
+    <shift>-22934.6521926007</shift>
+    <shift>-17073.7619445775</shift>
+    <shift>-21168.9003380273</shift>
+    <shift>-7217.8063143957</shift>
+    <shift>-1364.6646027127</shift>
+    <shift>-24288.4290629004</shift>
+    <shift>-14882.5995747289</shift>
+    <shift>-20305.4349654414</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>782.5746770309</shift>
+    <shift>542.5065802139</shift>
+    <shift>-22454.0386657375</shift>
+    <shift>6042.4228920538</shift>
+    <shift>-20652.1023816939</shift>
+    <shift>-24218.9513953185</shift>
+    <shift>-18689.0972898148</shift>
+    <shift>-6512.9544787535</shift>
+    <shift>5842.3067996720</shift>
+    <shift>-1559.3668633002</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>619</spectrum_id>
+  <spectrum_scan>1256</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>9496.1006750000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|Q8ZPU8|ASTE_SALTY</sequence_name>
+  <sequence_desc>Succinylglutamate desuccinylase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=astE PE=2 SV=1</sequence_desc>
+  <proteoform_mass>35618.2402181458</proteoform_mass>
+  <score>10.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-16214.3206614846</shift>
+    <shift>-4178.2000079057</shift>
+    <shift>-2463.2580293444</shift>
+    <shift>-5328.8346306444</shift>
+    <shift>-4902.5504103062</shift>
+    <shift>-12399.4067291028</shift>
+    <shift>-12528.4493221901</shift>
+    <shift>-13272.8007872182</shift>
+    <shift>-2619.3591403675</shift>
+    <shift>-23390.9105921125</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-9698.7480744455</shift>
+    <shift>1481.8976767159</shift>
+    <shift>-19788.8966754079</shift>
+    <shift>-9583.7211314227</shift>
+    <shift>-11110.5344468014</shift>
+    <shift>5966.2853297499</shift>
+    <shift>1380.8499982476</shift>
+    <shift>-10528.1967343394</shift>
+    <shift>-10585.2181980595</shift>
+    <shift>-16513.1915665713</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>632</spectrum_id>
+  <spectrum_scan>1282</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>9498.1027650000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|Q8ZPU8|ASTE_SALTY</sequence_name>
+  <sequence_desc>Succinylglutamate desuccinylase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=astE PE=2 SV=1</sequence_desc>
+  <proteoform_mass>35618.2402181458</proteoform_mass>
+  <score>11.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-25536.0072929585</shift>
+    <shift>-3737.9729085228</shift>
+    <shift>-1945.9931474713</shift>
+    <shift>-3147.6188772907</shift>
+    <shift>-25607.0444067431</shift>
+    <shift>-2463.2580293444</shift>
+    <shift>-27280.8956237501</shift>
+    <shift>-15294.8178407612</shift>
+    <shift>-3624.8888445447</shift>
+    <shift>-1263.6169242444</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>1483.8997667159</shift>
+    <shift>-26120.1374531458</shift>
+    <shift>-11108.5323568014</shift>
+    <shift>-1751.7861447643</shift>
+    <shift>-10696.3001720377</shift>
+    <shift>-23394.6926683984</shift>
+    <shift>-2486.1183951798</shift>
+    <shift>-20265.1195767920</shift>
+    <shift>-19857.9316991926</shift>
+    <shift>-19172.6133251957</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>740</spectrum_id>
+  <spectrum_scan>1498</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>9217.9250650000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|P26219|CDH_SALTY</sequence_name>
+  <sequence_desc>CDP-diacylglycerol pyrophosphatase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=cdh PE=3 SV=2</sequence_desc>
+  <proteoform_mass>28349.4881315820</proteoform_mass>
+  <score>12.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-488.2780895860</shift>
+    <shift>-7237.8228165873</shift>
+    <shift>-18140.3684107345</shift>
+    <shift>-14178.3278636000</shift>
+    <shift>-545.2995533061</shift>
+    <shift>-708.3628818388</shift>
+    <shift>-8658.5513569694</shift>
+    <shift>-17839.2046398844</shift>
+    <shift>-14962.7582476563</shift>
+    <shift>-15578.0711423505</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>-8382.1413500768</shift>
+    <shift>-11900.9982257868</shift>
+    <shift>-1142.5200424947</shift>
+    <shift>-3082.4392371807</shift>
+    <shift>121.1510253230</shift>
+    <shift>-18888.4299271553</shift>
+    <shift>-17177.6303941138</shift>
+    <shift>-6715.3316462735</shift>
+    <shift>-16319.1592078722</shift>
+    <shift>2979.6676693942</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+
+<simple_prsm>
+  <file_name>C:/Users/inkwchoi/Downloads/tutorial_data_update/tutorial-1-mzml/st_1.mzML</file_name>
+  <spectrum_id>740</spectrum_id>
+  <spectrum_scan>1498</spectrum_scan>
+  <precursor_id>0</precursor_id>
+  <precursor_mass>9217.9250650000</precursor_mass>
+  <spectrum_number>1</spectrum_number>
+  <sequence_name>sp|Q8ZPU8|ASTE_SALTY</sequence_name>
+  <sequence_desc>Succinylglutamate desuccinylase OS=Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX=99287 GN=astE PE=2 SV=1</sequence_desc>
+  <proteoform_mass>35618.2402181458</proteoform_mass>
+  <score>10.0000000000</score>
+  <n_trunc_shift_list>
+    <shift>-22631.5269152593</shift>
+    <shift>-11567.0087078030</shift>
+    <shift>-5707.0361839848</shift>
+    <shift>-23277.8265281344</shift>
+    <shift>-3260.7029412688</shift>
+    <shift>-3454.7833168464</shift>
+    <shift>-17073.7619445775</shift>
+    <shift>-25607.0444067431</shift>
+    <shift>-4364.2640647131</shift>
+    <shift>-27183.8428599009</shift>
+  </n_trunc_shift_list>
+  <c_trunc_shift_list>
+    <shift>1203.7220667159</shift>
+    <shift>-20138.1093991926</shift>
+    <shift>1460.8596228178</shift>
+    <shift>-23674.8703683984</shift>
+    <shift>-20251.1934631707</shift>
+    <shift>1547.8916512215</shift>
+    <shift>-1428.7203497861</shift>
+    <shift>-10806.3723443394</shift>
+    <shift>-10735.3352305548</shift>
+    <shift>235.1413300227</shift>
+  </c_trunc_shift_list>
+</simple_prsm>
+</simple_prsm_list>

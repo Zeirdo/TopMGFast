@@ -1,0 +1,866 @@
+The starting time of the program: 12:45:43
+TopMG 1.3.0
+********************** Parameters **********************
+Protein database file:                            	data/EC_canonical.fasta
+Spectrum file:                                    	data/BW_20_1_111106004325_cidetd_ms2.msalign
+Diagonal information file:                        	data/BW_20_1_111106004325_cidetd_ms2.txt
+Fragmentation method:                             	FILE
+Search type:                                      	TARGET
+Fixed modifications:                              	None
+Use TopFD feature file:                           	True
+Error tolerance for matching masses:              	15 ppm
+Error tolerance for identifying PrSM clusters:    	1.2 Da
+Spectrum-level cutoff type:                       	EVALUE
+Spectrum-level cutoff value:                      	0.01
+Proteoform-level cutoff type:                     	EVALUE
+Proteoform-level cutoff value:                    	0.01
+Allowed N-terminal forms:                         	NONE,NME,NME_ACETYLATION,M_ACETYLATION
+Maximum mass shift of modifications:              	500 Da
+Thread number:                                    	1
+Modification file name:                           	data/variable_mods.txt
+Gap in proteoform graph:                          	40
+Maximum number of variable PTMs:                  	5
+Maximum number of variable PTMs in a graph gap:   	5
+Maximum number of unexpected modifications:       	0
+Report only proteoforms from whole proteins:      	false
+Executable file directory:                        	/home/zeirdo/zeirdo/whole without diagonal/bin
+Start time:                                       	Fri Oct 14 12:45:43 2022
+********************** Parameters **********************
+Graph alignment - started.
+Mass graph alignment - processing 1 of 4054 spectra.Mass graph alignment - processing 2 of 4054 spectra.Mass graph alignment - processing 3 of 4054 spectra.Mass graph alignment - processing 4 of 4054 spectra.Mass graph alignment - processing 5 of 4054 spectra.Mass graph alignment - processing 6 of 4054 spectra.Mass graph alignment - processing 7 of 4054 spectra.Mass graph alignment - processing 8 of 4054 spectra.Mass graph alignment - processing 9 of 4054 spectra.Mass graph alignment - processing 10 of 4054 spectra.Mass graph alignment - processing 11 of 4054 spectra.Mass graph alignment - processing 12 of 4054 spectra.Mass graph alignment - processing 13 of 4054 spectra.Mass graph alignment - processing 14 of 4054 spectra.Mass graph alignment - processing 15 of 4054 spectra.Mass graph alignment - processing 16 of 4054 spectra.Mass graph alignment - processing 17 of 4054 spectra.Mass graph alignment - processing 18 of 4054 spectra.Mass graph alignment - processing 19 of 4054 spectra.Mass graph alignment - processing 20 of 4054 spectra.Mass graph alignment - processing 21 of 4054 spectra.Mass graph alignment - processing 22 of 4054 spectra.Mass graph alignment - processing 23 of 4054 spectra.Mass graph alignment - processing 24 of 4054 spectra.Mass graph alignment - processing 25 of 4054 spectra.Mass graph alignment - processing 26 of 4054 spectra.Mass graph alignment - processing 27 of 4054 spectra.Mass graph alignment - processing 28 of 4054 spectra.Mass graph alignment - processing 29 of 4054 spectra.Mass graph alignment - processing 30 of 4054 spectra.Mass graph alignment - processing 31 of 4054 spectra.Mass graph alignment - processing 32 of 4054 spectra.Mass graph alignment - processing 33 of 4054 spectra.Mass graph alignment - processing 34 of 4054 spectra.Mass graph alignment - processing 35 of 4054 spectra.Mass graph alignment - processing 36 of 4054 spectra.Mass graph alignment - processing 37 of 4054 spectra.Mass graph alignment - processing 38 of 4054 spectra.Mass graph alignment - processing 39 of 4054 spectra.Mass graph alignment - processing 40 of 4054 spectra.Mass graph alignment - processing 41 of 4054 spectra.Mass graph alignment - processing 42 of 4054 spectra.Mass graph alignment - processing 43 of 4054 spectra.Mass graph alignment - processing 44 of 4054 spectra.Mass graph alignment - processing 45 of 4054 spectra.Mass graph alignment - processing 46 of 4054 spectra.Mass graph alignment - processing 47 of 4054 spectra.Mass graph alignment - processing 48 of 4054 spectra.Mass graph alignment - processing 49 of 4054 spectra.Mass graph alignment - processing 50 of 4054 spectra.Mass graph alignment - processing 51 of 4054 spectra.Mass graph alignment - processing 52 of 4054 spectra.Mass graph alignment - processing 53 of 4054 spectra.Mass graph alignment - processing 54 of 4054 spectra.Mass graph alignment - processing 55 of 4054 spectra.Mass graph alignment - processing 56 of 4054 spectra.Mass graph alignment - processing 57 of 4054 spectra.Mass graph alignment - processing 58 of 4054 spectra.Mass graph alignment - processing 59 of 4054 spectra.Mass graph alignment - processing 60 of 4054 spectra.Mass graph alignment - processing 61 of 4054 spectra.Mass graph alignment - processing 62 of 4054 spectra.Mass graph alignment - processing 63 of 4054 spectra.Mass graph alignment - processing 64 of 4054 spectra.Mass graph alignment - processing 65 of 4054 spectra.Mass graph alignment - processing 66 of 4054 spectra.Mass graph alignment - processing 67 of 4054 spectra.Mass graph alignment - processing 68 of 4054 spectra.Mass graph alignment - processing 69 of 4054 spectra.Mass graph alignment - processing 70 of 4054 spectra.Mass graph alignment - processing 71 of 4054 spectra.Mass graph alignment - processing 72 of 4054 spectra.Mass graph alignment - processing 73 of 4054 spectra.Mass graph alignment - processing 74 of 4054 spectra.Mass graph alignment - processing 75 of 4054 spectra.Mass graph alignment - processing 76 of 4054 spectra.Mass graph alignment - processing 77 of 4054 spectra.Mass graph alignment - processing 78 of 4054 spectra.Mass graph alignment - processing 79 of 4054 spectra.Mass graph alignment - processing 80 of 4054 spectra.Mass graph alignment - processing 81 of 4054 spectra.Mass graph alignment - processing 82 of 4054 spectra.Mass graph alignment - processing 83 of 4054 spectra.Mass graph alignment - processing 84 of 4054 spectra.Mass graph alignment - processing 85 of 4054 spectra.Mass graph alignment - processing 86 of 4054 spectra.Mass graph alignment - processing 87 of 4054 spectra.Mass graph alignment - processing 88 of 4054 spectra.Mass graph alignment - processing 89 of 4054 spectra.Mass graph alignment - processing 90 of 4054 spectra.Mass graph alignment - processing 91 of 4054 spectra.Mass graph alignment - processing 92 of 4054 spectra.Mass graph alignment - processing 93 of 4054 spectra.Mass graph alignment - processing 94 of 4054 spectra.Mass graph alignment - processing 95 of 4054 spectra.Mass graph alignment - processing 96 of 4054 spectra.Mass graph alignment - processing 97 of 4054 spectra.Mass graph alignment - processing 98 of 4054 spectra.Mass graph alignment - processing 99 of 4054 spectra.Mass graph alignment - processing 100 of 4054 spectra.Mass graph alignment - processing 101 of 4054 spectra.Mass graph alignment - processing 102 of 4054 spectra.Mass graph alignment - processing 103 of 4054 spectra.Mass graph alignment - processing 104 of 4054 spectra.Mass graph alignment - processing 105 of 4054 spectra.Mass graph alignment - processing 106 of 4054 spectra.Mass graph alignment - processing 107 of 4054 spectra.Mass graph alignment - processing 108 of 4054 spectra.Mass graph alignment - processing 109 of 4054 spectra.Mass graph alignment - processing 110 of 4054 spectra.Mass graph alignment - processing 111 of 4054 spectra.Mass graph alignment - processing 112 of 4054 spectra.Mass graph alignment - processing 113 of 4054 spectra.Mass graph alignment - processing 114 of 4054 spectra.Mass graph alignment - processing 115 of 4054 spectra.Mass graph alignment - processing 116 of 4054 spectra.Mass graph alignment - processing 117 of 4054 spectra.Mass graph alignment - processing 118 of 4054 spectra.Mass graph alignment - processing 119 of 4054 spectra.Mass graph alignment - processing 120 of 4054 spectra.Mass graph alignment - processing 121 of 4054 spectra.Mass graph alignment - processing 122 of 4054 spectra.Mass graph alignment - processing 123 of 4054 spectra.Mass graph alignment - processing 124 of 4054 spectra.Mass graph alignment - processing 125 of 4054 spectra.Mass graph alignment - processing 126 of 4054 spectra.Mass graph alignment - processing 127 of 4054 spectra.Mass graph alignment - processing 128 of 4054 spectra.Mass graph alignment - processing 129 of 4054 spectra.Mass graph alignment - processing 130 of 4054 spectra.seq_name: sp|P62601|TREF_ECOLI
+The biggest T[i][j][k] is: T[168][55][27] = 4
+-----------------p: 550---------------------s: 56-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       168      |      55      |      1282348     |     1282348      |      0     |     42824
+       167      |      52      |     1239515     |     1239524      |      9     |     837167
+       139      |      21      |     402378     |     402357      |      -21     |     402357
+       127      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 1
+Running time of creating cij is: 23.016 ms
+Running time of dp is: 17.768 ms
+Totle running time is: 40.784 ms
+seq_name: sp|P37650|BCSC_ECOLI
+The biggest T[i][j][k] is: T[615][55][11] = 4
+-----------------p: 1158---------------------s: 56-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       615      |      55      |      1282348     |     1282332      |      -16     |     491859
+       599      |      30      |     790483     |     790473      |      -10     |     395509
+       586      |      20      |     394975     |     394964      |      -11     |     394964
+       573      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 2
+Running time of creating cij is: 42.542 ms
+Running time of dp is: 41.803 ms
+Totle running time is: 84.345 ms
+seq_name: sp|P45508|YFAL_ECOLI
+The biggest T[i][j][k] is: T[474][55][2] = 4
+-----------------p: 1251---------------------s: 56-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       474      |      55      |      1282348     |     1282323      |      -25     |     402385
+       458      |      31      |     879962     |     879938      |      -24     |     542071
+       437      |      17      |     337873     |     337867      |      -6     |     337867
+       424      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 5
+Running time of creating cij is: 58.138 ms
+Running time of dp is: 50.545 ms
+Totle running time is: 108.683 ms
+seq_name: sp|P07648|RECC_ECOLI
+The biggest T[i][j][k] is: T[855][55][28] = 4
+-----------------p: 1123---------------------s: 56-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       855      |      55      |      1282348     |     1282349      |      1     |     887383
+       827      |      20      |     394975     |     394966      |      -9     |     27721
+       826      |      19      |     367253     |     367245      |      -8     |     367245
+       814      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 5
+Running time of creating cij is: 31.835 ms
+Running time of dp is: 32.907 ms
+Totle running time is: 64.742 ms
+Mass graph alignment - processing 131 of 4054 spectra.Mass graph alignment - processing 132 of 4054 spectra.Mass graph alignment - processing 133 of 4054 spectra.Mass graph alignment - processing 134 of 4054 spectra.Mass graph alignment - processing 135 of 4054 spectra.Mass graph alignment - processing 136 of 4054 spectra.Mass graph alignment - processing 137 of 4054 spectra.Mass graph alignment - processing 138 of 4054 spectra.Mass graph alignment - processing 139 of 4054 spectra.Mass graph alignment - processing 140 of 4054 spectra.Mass graph alignment - processing 141 of 4054 spectra.Mass graph alignment - processing 142 of 4054 spectra.Mass graph alignment - processing 143 of 4054 spectra.Mass graph alignment - processing 144 of 4054 spectra.Mass graph alignment - processing 145 of 4054 spectra.Mass graph alignment - processing 146 of 4054 spectra.Mass graph alignment - processing 147 of 4054 spectra.Mass graph alignment - processing 148 of 4054 spectra.Mass graph alignment - processing 149 of 4054 spectra.Mass graph alignment - processing 150 of 4054 spectra.Mass graph alignment - processing 151 of 4054 spectra.Mass graph alignment - processing 152 of 4054 spectra.Mass graph alignment - processing 153 of 4054 spectra.Mass graph alignment - processing 154 of 4054 spectra.seq_name: sp|P45762|GSPK_ECOLI
+The biggest T[i][j][k] is: T[77][75][14] = 5
+-----------------p: 328---------------------s: 76-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       77      |      75      |      705401     |     705388      |      -13     |     560194
+       59      |      17      |     145197     |     145194      |      -3     |     81534
+       56      |      6      |     63685     |     63660      |      -25     |     28259
+       55      |      2      |     35401     |     35401      |      0     |     35401
+       54      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 1
+Running time of creating cij is: 8.346 ms
+Running time of dp is: 10.179 ms
+Totle running time is: 18.525 ms
+seq_name: sp|P77231|CITG_ECOLI
+The biggest T[i][j][k] is: T[188][75][30] = 6
+-----------------p: 293---------------------s: 76-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       188      |      75      |      705401     |     705404      |      3     |     274735
+       178      |      47      |     430663     |     430669      |      6     |     227816
+       170      |      23      |     202846     |     202853      |      7     |     144109
+       165      |      5      |     58743     |     58744      |      1     |     27721
+       164      |      1      |     31022     |     31023      |      1     |     31023
+       163      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 1
+Running time of creating cij is: 9.48 ms
+Running time of dp is: 11.269 ms
+Totle running time is: 20.749 ms
+seq_name: sp|P07118|SYV_ECOLI
+The biggest T[i][j][k] is: T[780][75][15] = 6
+-----------------p: 952---------------------s: 76-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       780      |      75      |      705401     |     705389      |      -12     |     379595
+       766      |      33      |     325797     |     325794      |      -3     |     231649
+       759      |      8      |     94144     |     94145      |      1     |     35401
+       758      |      5      |     58743     |     58744      |      1     |     27721
+       757      |      1      |     31022     |     31023      |      1     |     31023
+       756      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 4
+Running time of creating cij is: 32.412 ms
+Running time of dp is: 45.596 ms
+Totle running time is: 78.008 ms
+seq_name: sp|P09148|GAL7_ECOLI
+The biggest T[i][j][k] is: T[148][75][35] = 7
+-----------------p: 349---------------------s: 76-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       148      |      75      |      705401     |     705409      |      8     |     294514
+       139      |      45      |     410875     |     410895      |      20     |     258549
+       131      |      18      |     152328     |     152346      |      18     |     58201
+       129      |      8      |     94144     |     94145      |      1     |     35401
+       128      |      5      |     58743     |     58744      |      1     |     27721
+       127      |      1      |     31022     |     31023      |      1     |     31023
+       126      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 1
+Running time of creating cij is: 12.378 ms
+Running time of dp is: 15.335 ms
+Totle running time is: 27.713 ms
+Mass graph alignment - processing 155 of 4054 spectra.Mass graph alignment - processing 156 of 4054 spectra.seq_name: sp|P0A7N4|RL32_ECOLI
+The biggest T[i][j][k] is: T[57][103][28] = 14
+-----------------p: 58---------------------s: 104-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       57      |      103      |      882464     |     882465      |      1     |     35141
+       56      |      98      |     847321     |     847324      |      3     |     319232
+       46      |      67      |     528092     |     528092      |      0     |     51044
+       44      |      58      |     477047     |     477048      |      1     |     27721
+       43      |      54      |     449326     |     449327      |      1     |     31023
+       42      |      47      |     418303     |     418304      |      1     |     149047
+       38      |      30      |     269259     |     269257      |      -2     |     37600
+       37      |      25      |     231656     |     231657      |      1     |     35141
+       36      |      20      |     196517     |     196516      |      -1     |     74920
+       33      |      11      |     121596     |     121596      |      0     |     27721
+       32      |      10      |     93876     |     93875      |      -1     |     35141
+       31      |      6      |     58735     |     58734      |      -1     |     31556
+       30      |      1      |     27180     |     27178      |      -2     |     27178
+       29      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 0
+Running time of creating cij is: 31.353 ms
+Running time of dp is: 3.62 ms
+Totle running time is: 34.973 ms
+seq_name: sp|P00864|CAPP_ECOLI
+The biggest T[i][j][k] is: T[38][103][26] = 6
+-----------------p: 884---------------------s: 104-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       38      |      103      |      882464     |     882463      |      -1     |     58744
+       36      |      95      |     823728     |     823719      |      -9     |     202850
+       30      |      74      |     620881     |     620869      |      -12     |     256363
+       21      |      38      |     364530     |     364506      |      -24     |     132851
+       16      |      25      |     231656     |     231655      |      -1     |     231655
+       8      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 2
+Running time of creating cij is: 40.434 ms
+Running time of dp is: 67.227 ms
+Totle running time is: 107.661 ms
+seq_name: sp|P25714|YIDC_ECOLI
+The biggest T[i][j][k] is: T[81][103][21] = 5
+-----------------p: 549---------------------s: 104-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       81      |      103      |      882464     |     882458      |      -6     |     35131
+       80      |      99      |     847325     |     847327      |      2     |     340342
+       68      |      63      |     506977     |     506985      |      8     |     471854
+       50      |      2      |     35142     |     35131      |      -11     |     35131
+       49      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 2
+Running time of creating cij is: 29.44 ms
+Running time of dp is: 35.483 ms
+Totle running time is: 64.923 ms
+seq_name: sp|P07363|CHEA_ECOLI
+The biggest T[i][j][k] is: T[252][103][17] = 5
+-----------------p: 655---------------------s: 104-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       252      |      103      |      882464     |     882454      |      -10     |     191591
+       246      |      83      |     690888     |     690863      |      -25     |     221785
+       238      |      56      |     469102     |     469078      |      -24     |     31023
+       237      |      49      |     438079     |     438055      |      -24     |     438055
+       221      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 4
+Running time of creating cij is: 37.212 ms
+Running time of dp is: 50.759 ms
+Totle running time is: 87.971 ms
+seq_name: sp|P60778|TSGA_ECOLI
+The biggest T[i][j][k] is: T[343][103][4] = 5
+-----------------p: 394---------------------s: 104-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       343      |      103      |      882464     |     882441      |      -23     |     196516
+       335      |      81      |     685946     |     685925      |      -21     |     282980
+       325      |      44      |     402936     |     402945      |      9     |     167159
+       319      |      28      |     235804     |     235786      |      -18     |     235786
+       310      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 9
+Running time of creating cij is: 18.747 ms
+Running time of dp is: 25.99 ms
+Totle running time is: 44.737 ms
+seq_name: sp|P75870|YCCS_ECOLI
+The biggest T[i][j][k] is: T[65][103][46] = 6
+-----------------p: 718---------------------s: 104-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       65      |      103      |      882464     |     882483      |      19     |     116671
+       62      |      92      |     765809     |     765812      |      3     |     547039
+       42      |      24      |     218765     |     218773      |      8     |     89767
+       39      |      12      |     129016     |     129006      |      -10     |     35141
+       38      |      10      |     93876     |     93865      |      -11     |     93865
+       34      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 1
+Running time of creating cij is: 18.59 ms
+Running time of dp is: 44.844 ms
+Totle running time is: 63.434 ms
+seq_name: sp|P0A720|KTHY_ECOLI
+The biggest T[i][j][k] is: T[68][103][31] = 4
+-----------------p: 214---------------------s: 104-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       68      |      103      |      882464     |     882468      |      4     |     35141
+       67      |      99      |     847325     |     847327      |      2     |     191845
+       60      |      76      |     655473     |     655482      |      9     |     655482
+       37      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 4
+Running time of creating cij is: 16.67 ms
+Running time of dp is: 14.785 ms
+Totle running time is: 31.455 ms
+seq_name: sp|P0A7Z0|RPIA_ECOLI
+The biggest T[i][j][k] is: T[177][103][3] = 6
+-----------------p: 220---------------------s: 104-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       177      |      103      |      882464     |     882440      |      -24     |     213817
+       170      |      79      |     668639     |     668623      |      -16     |     140531
+       165      |      67      |     528092     |     528092      |      0     |     97973
+       161      |      48      |     430116     |     430119      |      3     |     27178
+       160      |      44      |     402936     |     402941      |      5     |     402941
+       146      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 4
+Running time of creating cij is: 15.771 ms
+Running time of dp is: 13.833 ms
+Totle running time is: 29.604 ms
+seq_name: sp|P0A9T6|YBAQ_ECOLI
+The biggest T[i][j][k] is: T[28][103][6] = 4
+-----------------p: 114---------------------s: 104-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       28      |      103      |      882464     |     882443      |      -21     |     433111
+       15      |      54      |     449326     |     449332      |      6     |     31023
+       14      |      47      |     418303     |     418309      |      6     |     418309
+       0      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 1
+Running time of creating cij is: 26.306 ms
+Running time of dp is: 6.45 ms
+Totle running time is: 32.756 ms
+seq_name: sp|P0A9X4|MREB_ECOLI
+The biggest T[i][j][k] is: T[116][103][17] = 4
+-----------------p: 348---------------------s: 104-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       116      |      103      |      882464     |     882454      |      -10     |     53803
+       114      |      96      |     828669     |     828651      |      -18     |     793510
+       89      |      2      |     35142     |     35141      |      -1     |     35141
+       88      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 1
+Running time of creating cij is: 21.77 ms
+Running time of dp is: 23.503 ms
+Totle running time is: 45.273 ms
+seq_name: sp|P0AGL5|RATA_ECOLI
+The biggest T[i][j][k] is: T[110][103][3] = 7
+-----------------p: 159---------------------s: 104-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       110      |      103      |      882464     |     882440      |      -24     |     35131
+       109      |      98      |     847321     |     847309      |      -12     |     23876
+       108      |      94      |     823456     |     823433      |      -23     |     57648
+       106      |      92      |     765809     |     765785      |      -24     |     385369
+       93      |      40      |     380428     |     380416      |      -12     |     321672
+       82      |      7      |     58736     |     58744      |      8     |     58744
+       80      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 3
+Running time of creating cij is: 21.493 ms
+Running time of dp is: 10.059 ms
+Totle running time is: 31.552 ms
+Mass graph alignment - processing 157 of 4054 spectra.seq_name: sp|P0A7N4|RL32_ECOLI
+The biggest T[i][j][k] is: T[57][70][28] = 13
+-----------------p: 58---------------------s: 71-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       57      |      70      |      882464     |     882465      |      1     |     35141
+       56      |      68      |     847323     |     847324      |      1     |     112830
+       52      |      65      |     734492     |     734494      |      2     |     58467
+       50      |      57      |     676026     |     676027      |      1     |     42824
+       49      |      49      |     633203     |     633203      |      0     |     44734
+       48      |      44      |     588469     |     588469      |      0     |     44734
+       47      |      41      |     543735     |     543735      |      0     |     15643
+       46      |      39      |     528090     |     528092      |      2     |     78765
+       43      |      35      |     449326     |     449327      |      1     |     68623
+       41      |      32      |     380704     |     380704      |      0     |     219589
+       35      |      5      |     161116     |     161115      |      -1     |     39519
+       33      |      3      |     121596     |     121596      |      0     |     121596
+       29      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 0
+Running time of creating cij is: 5.461 ms
+Running time of dp is: 1.811 ms
+Totle running time is: 7.272 ms
+seq_name: sp|P0A9U1|YBHF_ECOLI
+The biggest T[i][j][k] is: T[394][70][5] = 5
+-----------------p: 579---------------------s: 71-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       394      |      70      |      882464     |     882442      |      -22     |     35141
+       393      |      68      |     847323     |     847301      |      -22     |     512721
+       374      |      28      |     334604     |     334580      |      -24     |     190754
+       368      |      4      |     143847     |     143826      |      -21     |     143826
+       362      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 1
+Running time of creating cij is: 24.056 ms
+Running time of dp is: 22.029 ms
+Totle running time is: 46.085 ms
+seq_name: sp|P0AEA2|CSGG_ECOLI
+The biggest T[i][j][k] is: T[204][70][18] = 7
+-----------------p: 278---------------------s: 71-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       204      |      70      |      882464     |     882455      |      -9     |     15643
+       203      |      69      |     866808     |     866812      |      4     |     19488
+       202      |      68      |     847323     |     847324      |      1     |     303569
+       192      |      41      |     543735     |     543755      |      20     |     298624
+       181      |      20      |     245137     |     245131      |      -6     |     186667
+       175      |      2      |     58457     |     58464      |      7     |     58464
+       173      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 1
+Running time of creating cij is: 12.833 ms
+Running time of dp is: 9.238 ms
+Totle running time is: 22.071 ms
+seq_name: sp|P77554|YAHJ_ECOLI
+The biggest T[i][j][k] is: T[202][70][4] = 6
+-----------------p: 461---------------------s: 71-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       202      |      70      |      882464     |     882441      |      -23     |     15643
+       201      |      69      |     866808     |     866798      |      -10     |     19488
+       200      |      68      |     847323     |     847310      |      -13     |     635146
+       179      |      15      |     212170     |     212164      |      -6     |     181141
+       172      |      1      |     31016     |     31023      |      7     |     31023
+       171      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 3
+Running time of creating cij is: 22.144 ms
+Running time of dp is: 16.362 ms
+Totle running time is: 38.506 ms
+Mass graph alignment - processing 158 of 4054 spectra.Mass graph alignment - processing 159 of 4054 spectra.Mass graph alignment - processing 160 of 4054 spectra.Mass graph alignment - processing 161 of 4054 spectra.Mass graph alignment - processing 162 of 4054 spectra.seq_name: sp|P39180|AG43_ECOLI
+The biggest T[i][j][k] is: T[311][53][27] = 7
+-----------------p: 1040---------------------s: 54-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       311      |      53      |      1165137     |     1165137      |      0     |     202843
+       303      |      39      |     962298     |     962294      |      -4     |     121306
+       297      |      34      |     840988     |     840988      |      0     |     62309
+       295      |      30      |     778687     |     778679      |      -8     |     266786
+       286      |      24      |     511902     |     511893      |      -9     |     191308
+       278      |      17      |     320589     |     320585      |      -4     |     320585
+       267      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 6
+Running time of creating cij is: 65.206 ms
+Running time of dp is: 62.001 ms
+Totle running time is: 127.207 ms
+seq_name: sp|P76594|LYSAC_ECOLI
+The biggest T[i][j][k] is: T[437][53][11] = 5
+-----------------p: 887---------------------s: 54-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       437      |      53      |      1165137     |     1165121      |      -16     |     197891
+       430      |      41      |     967238     |     967230      |      -8     |     188560
+       424      |      30      |     778687     |     778670      |      -17     |     646082
+       403      |      4      |     132582     |     132588      |      6     |     132588
+       398      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 3
+Running time of creating cij is: 30.184 ms
+Running time of dp is: 31.311 ms
+Totle running time is: 61.495 ms
+seq_name: sp|P77257|LSRA_ECOLI
+The biggest T[i][j][k] is: T[486][53][23] = 5
+-----------------p: 512---------------------s: 54-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       486      |      53      |      1165137     |     1165133      |      -4     |     162498
+       480      |      46      |     1002642     |     1002635      |      -7     |     35401
+       479      |      41      |     967238     |     967234      |      -4     |     736940
+       454      |      15      |     230286     |     230294      |      8     |     230294
+       446      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 4
+Running time of creating cij is: 20.193 ms
+Running time of dp is: 18.42 ms
+Totle running time is: 38.613 ms
+seq_name: sp|P00864|CAPP_ECOLI
+The biggest T[i][j][k] is: T[289][53][35] = 6
+-----------------p: 884---------------------s: 54-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       289      |      53      |      1165137     |     1165145      |      8     |     290113
+       279      |      37      |     875019     |     875032      |      13     |     483926
+       264      |      22      |     391120     |     391106      |      -14     |     253884
+       255      |      5      |     137242     |     137222      |      -20     |     90023
+       252      |      2      |     47219     |     47199      |      -20     |     47199
+       250      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 4
+Running time of creating cij is: 41.582 ms
+Running time of dp is: 55.891 ms
+Totle running time is: 97.473 ms
+Mass graph alignment - processing 163 of 4054 spectra.Mass graph alignment - processing 164 of 4054 spectra.Mass graph alignment - processing 165 of 4054 spectra.Mass graph alignment - processing 166 of 4054 spectra.Mass graph alignment - processing 167 of 4054 spectra.Mass graph alignment - processing 168 of 4054 spectra.Mass graph alignment - processing 169 of 4054 spectra.Mass graph alignment - processing 170 of 4054 spectra.seq_name: sp|P0A796|PFKA_ECOLI
+The biggest T[i][j][k] is: T[241][71][0] = 5
+-----------------p: 321---------------------s: 72-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       241      |      71      |      1282068     |     1282041      |      -27     |     42824
+       240      |      69      |     1239243     |     1239217      |      -26     |     301905
+       230      |      54      |     937308     |     937312      |      4     |     518470
+       213      |      32      |     418851     |     418842      |      -9     |     418842
+       198      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 4
+Running time of creating cij is: 19.054 ms
+Running time of dp is: 13.503 ms
+Totle running time is: 32.557 ms
+seq_name: sp|P33353|YEHQ_ECOLI
+The biggest T[i][j][k] is: T[372][71][20] = 4
+-----------------p: 615---------------------s: 72-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       372      |      71      |      1282068     |     1282061      |      -7     |     42824
+       371      |      69      |     1239243     |     1239237      |      -6     |     872260
+       344      |      20      |     366979     |     366977      |      -2     |     366977
+       332      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 3
+Running time of creating cij is: 28.306 ms
+Running time of dp is: 26.986 ms
+Totle running time is: 55.292 ms
+seq_name: sp|P05825|FEPA_ECOLI
+The biggest T[i][j][k] is: T[84][71][22] = 6
+-----------------p: 747---------------------s: 72-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       84      |      71      |      1282068     |     1282063      |      -5     |     188556
+       77      |      60      |     1093505     |     1093507      |      2     |     156172
+       71      |      54      |     937308     |     937335      |      27     |     172915
+       65      |      38      |     764445     |     764420      |      -25     |     362322
+       53      |      26      |     402107     |     402098      |      -9     |     402098
+       37      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 7
+Running time of creating cij is: 50.894 ms
+Running time of dp is: 35.084 ms
+Totle running time is: 85.978 ms
+seq_name: sp|P06846|EBGR_ECOLI
+The biggest T[i][j][k] is: T[327][71][11] = 5
+-----------------p: 328---------------------s: 72-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       327      |      71      |      1282068     |     1282052      |      -16     |     42824
+       326      |      69      |     1239243     |     1239228      |      -15     |     354606
+       313      |      42      |     884628     |     884622      |      -6     |     489398
+       297      |      25      |     395238     |     395224      |      -14     |     395224
+       283      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 7
+Running time of creating cij is: 19.138 ms
+Running time of dp is: 12.523 ms
+Totle running time is: 31.661 ms
+Mass graph alignment - processing 171 of 4054 spectra.Mass graph alignment - processing 172 of 4054 spectra.Mass graph alignment - processing 173 of 4054 spectra.Mass graph alignment - processing 174 of 4054 spectra.Mass graph alignment - processing 175 of 4054 spectra.Mass graph alignment - processing 176 of 4054 spectra.Mass graph alignment - processing 177 of 4054 spectra.Mass graph alignment - processing 178 of 4054 spectra.Mass graph alignment - processing 179 of 4054 spectra.Mass graph alignment - processing 180 of 4054 spectra.Mass graph alignment - processing 181 of 4054 spectra.Mass graph alignment - processing 182 of 4054 spectra.Mass graph alignment - processing 183 of 4054 spectra.Mass graph alignment - processing 184 of 4054 spectra.Mass graph alignment - processing 185 of 4054 spectra.Mass graph alignment - processing 186 of 4054 spectra.Mass graph alignment - processing 187 of 4054 spectra.Mass graph alignment - processing 188 of 4054 spectra.Mass graph alignment - processing 189 of 4054 spectra.Mass graph alignment - processing 190 of 4054 spectra.Mass graph alignment - processing 191 of 4054 spectra.Mass graph alignment - processing 192 of 4054 spectra.seq_name: sp|P0A7N4|RL32_ECOLI
+The biggest T[i][j][k] is: T[57][101][24] = 13
+-----------------p: 58---------------------s: 102-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       57      |      101      |      882468     |     882465      |      -3     |     35141
+       56      |      96      |     847321     |     847324      |      3     |     319232
+       46      |      64      |     528096     |     528092      |      -4     |     51044
+       44      |      58      |     477052     |     477048      |      -4     |     27721
+       43      |      52      |     449325     |     449327      |      2     |     68623
+       41      |      39      |     380707     |     380704      |      -3     |     111447
+       38      |      29      |     269260     |     269257      |      -3     |     37600
+       37      |      25      |     231656     |     231657      |      1     |     110061
+       33      |      12      |     121598     |     121596      |      -2     |     27721
+       32      |      10      |     93879     |     93875      |      -4     |     35141
+       31      |      6      |     58738     |     58734      |      -4     |     31556
+       30      |      1      |     27183     |     27178      |      -5     |     27178
+       29      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 0
+Running time of creating cij is: 7.802 ms
+Running time of dp is: 3.177 ms
+Totle running time is: 10.979 ms
+seq_name: sp|P06710|DPO3X_ECOLI
+The biggest T[i][j][k] is: T[417][101][11] = 6
+-----------------p: 644---------------------s: 102-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       417      |      101      |      882468     |     882452      |      -16     |     35131
+       416      |      96      |     847321     |     847321      |      0     |     429023
+       401      |      44      |     418303     |     418298      |      -5     |     186364
+       394      |      27      |     231937     |     231934      |      -3     |     35131
+       393      |      21      |     196796     |     196803      |      7     |     196803
+       386      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 1
+Running time of creating cij is: 32.351 ms
+Running time of dp is: 45.715 ms
+Totle running time is: 78.066 ms
+seq_name: sp|P0ABI8|CYOB_ECOLI
+The biggest T[i][j][k] is: T[616][101][6] = 5
+-----------------p: 664---------------------s: 102-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       616      |      101      |      882468     |     882447      |      -21     |     405404
+       604      |      58      |     477052     |     477043      |      -9     |     96335
+       601      |      39      |     380707     |     380708      |      1     |     345567
+       587      |      3      |     35148     |     35141      |      -7     |     35141
+       586      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 2
+Running time of creating cij is: 28.838 ms
+Running time of dp is: 41.608 ms
+Totle running time is: 70.446 ms
+seq_name: sp|P0AGM7|URAA_ECOLI
+The biggest T[i][j][k] is: T[245][101][27] = 6
+-----------------p: 430---------------------s: 102-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       245      |      101      |      882468     |     882468      |      0     |     405424
+       230      |      58      |     477052     |     477044      |      -8     |     27721
+       229      |      52      |     449325     |     449323      |      -2     |     31023
+       228      |      44      |     418303     |     418300      |      -3     |     359556
+       218      |      7      |     58739     |     58744      |      5     |     58744
+       216      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 1
+Running time of creating cij is: 19.732 ms
+Running time of dp is: 29.243 ms
+Totle running time is: 48.975 ms
+seq_name: sp|P60906|SYH_ECOLI
+The biggest T[i][j][k] is: T[58][101][22] = 5
+-----------------p: 425---------------------s: 102-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       58      |      101      |      882468     |     882463      |      -5     |     375767
+       46      |      62      |     506702     |     506696      |      -6     |     237438
+       38      |      29      |     269260     |     269258      |      -2     |     234117
+       30      |      3      |     35148     |     35141      |      -7     |     35141
+       29      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 1
+Running time of creating cij is: 26.307 ms
+Running time of dp is: 31.905 ms
+Totle running time is: 58.212 ms
+seq_name: sp|P75870|YCCS_ECOLI
+The biggest T[i][j][k] is: T[64][101][33] = 4
+-----------------p: 718---------------------s: 102-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       64      |      101      |      882468     |     882474      |      6     |     398003
+       50      |      59      |     484471     |     484471      |      0     |     35131
+       48      |      53      |     449330     |     449340      |      10     |     449340
+       33      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 2
+Running time of creating cij is: 18.723 ms
+Running time of dp is: 42.566 ms
+Totle running time is: 61.289 ms
+seq_name: sp|P02929|TONB_ECOLI
+The biggest T[i][j][k] is: T[103][101][49] = 6
+-----------------p: 240---------------------s: 102-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       103      |      101      |      882468     |     882490      |      22     |     53803
+       101      |      95      |     828671     |     828687      |      16     |     35141
+       100      |      91      |     793529     |     793546      |      17     |     344231
+       89      |      52      |     449325     |     449315      |      -10     |     31023
+       88      |      44      |     418303     |     418292      |      -11     |     418292
+       73      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 2
+Running time of creating cij is: 15.516 ms
+Running time of dp is: 15.782 ms
+Totle running time is: 31.298 ms
+seq_name: sp|P0A7I4|RF3_ECOLI
+The biggest T[i][j][k] is: T[35][101][51] = 3
+-----------------p: 530---------------------s: 102-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       35      |      101      |      882468     |     882492      |      24     |     375780
+       22      |      62      |     506702     |     506712      |      10     |     506712
+       6      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 0
+Running time of creating cij is: 29.742 ms
+Running time of dp is: 33.602 ms
+Totle running time is: 63.344 ms
+seq_name: sp|P0A8W2|SLYA_ECOLI
+The biggest T[i][j][k] is: T[36][101][33] = 4
+-----------------p: 145---------------------s: 102-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       36      |      101      |      882468     |     882474      |      6     |     35131
+       34      |      96      |     847321     |     847343      |      22     |     229179
+       27      |      72      |     618149     |     618164      |      15     |     618164
+       8      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 6
+Running time of creating cij is: 6.992 ms
+Running time of dp is: 6.815 ms
+Totle running time is: 13.807 ms
+seq_name: sp|P25748|GALS_ECOLI
+The biggest T[i][j][k] is: T[81][101][0] = 4
+-----------------p: 347---------------------s: 102-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       81      |      101      |      882468     |     882441      |      -27     |     35131
+       79      |      96      |     847321     |     847310      |      -11     |     284085
+       69      |      70      |     563236     |     563225      |      -11     |     563225
+       48      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 2
+Running time of creating cij is: 15.405 ms
+Running time of dp is: 18.575 ms
+Totle running time is: 33.98 ms
+seq_name: sp|P37610|TAUD_ECOLI
+The biggest T[i][j][k] is: T[55][101][2] = 3
+-----------------p: 284---------------------s: 102-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       55      |      101      |      882468     |     882443      |      -25     |     35131
+       54      |      96      |     847321     |     847312      |      -9     |     847312
+       28      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 1
+Running time of creating cij is: 17.42 ms
+Running time of dp is: 14.151 ms
+Totle running time is: 31.571 ms
+Mass graph alignment - processing 193 of 4054 spectra.seq_name: sp|P0ABH9|CLPA_ECOLI
+The biggest T[i][j][k] is: T[231][51][35] = 6
+-----------------p: 759---------------------s: 52-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       231      |      51      |      882468     |     882476      |      8     |     226450
+       224      |      42      |     656015     |     656026      |      11     |     19488
+       223      |      38      |     636535     |     636538      |      3     |     31023
+       222      |      35      |     605512     |     605515      |      3     |     262400
+       211      |      20      |     343107     |     343115      |      8     |     343115
+       201      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 1
+Running time of creating cij is: 34.723 ms
+Running time of dp is: 21.66 ms
+Totle running time is: 56.383 ms
+seq_name: sp|P25516|ACNA_ECOLI
+The biggest T[i][j][k] is: T[853][51][24] = 6
+-----------------p: 892---------------------s: 52-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       853      |      51      |      882468     |     882465      |      -3     |     226456
+       845      |      42      |     656015     |     656009      |      -6     |     19488
+       844      |      38      |     636535     |     636521      |      -14     |     108422
+       840      |      29      |     528090     |     528099      |      9     |     238241
+       832      |      17      |     289877     |     289858      |      -19     |     289858
+       822      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 1
+Running time of creating cij is: 33.072 ms
+Running time of dp is: 27.036 ms
+Totle running time is: 60.108 ms
+Mass graph alignment - processing 194 of 4054 spectra.Mass graph alignment - processing 195 of 4054 spectra.Mass graph alignment - processing 196 of 4054 spectra.Mass graph alignment - processing 197 of 4054 spectra.Mass graph alignment - processing 198 of 4054 spectra.Mass graph alignment - processing 199 of 4054 spectra.Mass graph alignment - processing 200 of 4054 spectra.Mass graph alignment - processing 201 of 4054 spectra.Mass graph alignment - processing 202 of 4054 spectra.Mass graph alignment - processing 203 of 4054 spectra.Mass graph alignment - processing 204 of 4054 spectra.seq_name: sp|P21513|RNE_ECOLI
+The biggest T[i][j][k] is: T[679][53][28] = 10
+-----------------p: 1062---------------------s: 54-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       679      |      53      |      1165409     |     1165410      |      1     |     42824
+       678      |      51      |     1122582     |     1122586      |      4     |     272825
+       670      |      36      |     849760     |     849761      |      1     |     78765
+       667      |      29      |     771007     |     770996      |      -11     |     187753
+       661      |      26      |     583241     |     583243      |      2     |     352686
+       650      |      16      |     230560     |     230557      |      -3     |     27721
+       649      |      13      |     202836     |     202836      |      0     |     35131
+       648      |      9      |     167705     |     167705      |      0     |     35131
+       647      |      4      |     132573     |     132574      |      1     |     132574
+       643      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 0
+Running time of creating cij is: 37.357 ms
+Running time of dp is: 43.519 ms
+Totle running time is: 80.876 ms
+seq_name: sp|P08204|ARAB_ECOLI
+The biggest T[i][j][k] is: T[101][53][29] = 5
+-----------------p: 567---------------------s: 54-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       101      |      53      |      1165409     |     1165411      |      2     |     202820
+       93      |      38      |     962574     |     962591      |      17     |     379325
+       77      |      26      |     583241     |     583266      |      25     |     183898
+       71      |      24      |     399343     |     399368      |      25     |     399368
+       57      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 3
+Running time of creating cij is: 20.688 ms
+Running time of dp is: 17.877 ms
+Totle running time is: 38.565 ms
+seq_name: sp|P25666|HTRL_ECOLI
+The biggest T[i][j][k] is: T[221][53][39] = 6
+-----------------p: 286---------------------s: 54-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       221      |      53      |      1165409     |     1165421      |      12     |     136966
+       216      |      48      |     1028442     |     1028455      |      13     |     349683
+       207      |      28      |     678760     |     678772      |      12     |     505855
+       189      |      10      |     172923     |     172917      |      -6     |     40346
+       188      |      4      |     132573     |     132571      |      -2     |     132571
+       184      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 1
+Running time of creating cij is: 15.64 ms
+Running time of dp is: 9.735 ms
+Totle running time is: 25.375 ms
+seq_name: sp|P31658|HCHA_ECOLI
+The biggest T[i][j][k] is: T[59][53][36] = 3
+-----------------p: 284---------------------s: 54-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       59      |      53      |      1165409     |     1165418      |      9     |     42824
+       58      |      51      |     1122582     |     1122594      |      12     |     1122594
+       21      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 1
+Running time of creating cij is: 12.077 ms
+Running time of dp is: 9.433 ms
+Totle running time is: 21.51 ms
+Mass graph alignment - processing 205 of 4054 spectra.Mass graph alignment - processing 206 of 4054 spectra.Mass graph alignment - processing 207 of 4054 spectra.Mass graph alignment - processing 208 of 4054 spectra.Mass graph alignment - processing 209 of 4054 spectra.Mass graph alignment - processing 210 of 4054 spectra.Mass graph alignment - processing 211 of 4054 spectra.Mass graph alignment - processing 212 of 4054 spectra.Mass graph alignment - processing 213 of 4054 spectra.Mass graph alignment - processing 214 of 4054 spectra.Mass graph alignment - processing 215 of 4054 spectra.Mass graph alignment - processing 216 of 4054 spectra.Mass graph alignment - processing 217 of 4054 spectra.Mass graph alignment - processing 218 of 4054 spectra.seq_name: sp|P0A8F8|UVRB_ECOLI
+The biggest T[i][j][k] is: T[438][49][0] = 4
+-----------------p: 674---------------------s: 50-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       438      |      49      |      756488     |     756461      |      -27     |     35401
+       437      |      45      |     721069     |     721060      |      -9     |     289285
+       426      |      29      |     431768     |     431775      |      7     |     431775
+       411      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 4
+Running time of creating cij is: 20.075 ms
+Running time of dp is: 15.774 ms
+Totle running time is: 35.849 ms
+seq_name: sp|P33359|YEHW_ECOLI
+The biggest T[i][j][k] is: T[211][49][7] = 5
+-----------------p: 244---------------------s: 50-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       211      |      49      |      756488     |     756468      |      -20     |     324720
+       199      |      29      |     431768     |     431748      |      -20     |     102108
+       195      |      20      |     329661     |     329640      |      -21     |     267331
+       183      |      5      |     62303     |     62309      |      6     |     62309
+       181      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 1
+Running time of creating cij is: 6.932 ms
+Running time of dp is: 5.373 ms
+Totle running time is: 12.305 ms
+seq_name: sp|P0A7C2|LEXA_ECOLI
+The biggest T[i][j][k] is: T[194][49][1] = 3
+-----------------p: 203---------------------s: 50-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       194      |      49      |      756488     |     756462      |      -26     |     721061
+       170      |      3      |     35419     |     35401      |      -18     |     35401
+       169      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 0
+Running time of creating cij is: 8.605 ms
+Running time of dp is: 3.886 ms
+Totle running time is: 12.491 ms
+seq_name: sp|P0AEJ4|ENVZ_ECOLI
+The biggest T[i][j][k] is: T[141][49][18] = 4
+-----------------p: 451---------------------s: 50-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       141      |      49      |      756488     |     756479      |      -9     |     26625
+       140      |      47      |     729862     |     729854      |      -8     |     667545
+       118      |      5      |     62303     |     62309      |      6     |     62309
+       115      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 3
+Running time of creating cij is: 12.209 ms
+Running time of dp is: 9.661 ms
+Totle running time is: 21.87 ms
+Mass graph alignment - processing 219 of 4054 spectra.Mass graph alignment - processing 220 of 4054 spectra.seq_name: sp|P0AC86|PHSG_ECOLI
+The biggest T[i][j][k] is: T[76][77][23] = 4
+-----------------p: 816---------------------s: 78-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       76      |      77      |      1282344     |     1282340      |      -4     |     402652
+       64      |      46      |     879685     |     879688      |      3     |     371368
+       53      |      34      |     508328     |     508320      |      -8     |     508320
+       37      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 4
+Running time of creating cij is: 38.799 ms
+Running time of dp is: 39.697 ms
+Totle running time is: 78.496 ms
+seq_name: sp|P0AED5|UVRY_ECOLI
+The biggest T[i][j][k] is: T[99][77][25] = 5
+-----------------p: 219---------------------s: 78-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       99      |      77      |      1282344     |     1282342      |      -2     |     311267
+       87      |      60      |     971080     |     971075      |      -5     |     31286
+       86      |      57      |     939795     |     939789      |      -6     |     54889
+       84      |      47      |     884902     |     884900      |      -2     |     884900
+       53      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 3
+Running time of creating cij is: 16.558 ms
+Running time of dp is: 10.788 ms
+Totle running time is: 27.346 ms
+seq_name: sp|P62601|TREF_ECOLI
+The biggest T[i][j][k] is: T[168][77][31] = 4
+-----------------p: 550---------------------s: 78-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       168      |      77      |      1282344     |     1282348      |      4     |     42824
+       167      |      75      |     1239518     |     1239524      |      6     |     837167
+       139      |      29      |     402379     |     402357      |      -22     |     402357
+       127      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 1
+Running time of creating cij is: 20.461 ms
+Running time of dp is: 23.246 ms
+Totle running time is: 43.707 ms
+Mass graph alignment - processing 221 of 4054 spectra.Mass graph alignment - processing 222 of 4054 spectra.Mass graph alignment - processing 223 of 4054 spectra.Mass graph alignment - processing 224 of 4054 spectra.Mass graph alignment - processing 225 of 4054 spectra.Mass graph alignment - processing 226 of 4054 spectra.Mass graph alignment - processing 227 of 4054 spectra.Mass graph alignment - processing 228 of 4054 spectra.seq_name: sp|P06959|ODP2_ECOLI
+The biggest T[i][j][k] is: T[68][53][32] = 6
+-----------------p: 631---------------------s: 54-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       68      |      53      |      860478     |     860483      |      5     |     35131
+       66      |      48      |     825342     |     825352      |      10     |     35131
+       65      |      46      |     790220     |     790221      |      1     |     739177
+       39      |      6      |     51051     |     51044      |      -7     |     15643
+       38      |      4      |     35405     |     35401      |      -4     |     35401
+       37      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 1
+Running time of creating cij is: 30.476 ms
+Running time of dp is: 23.232 ms
+Totle running time is: 53.708 ms
+Mass graph alignment - processing 229 of 4054 spectra.Mass graph alignment - processing 230 of 4054 spectra.seq_name: sp|P25519|HFLX_ECOLI
+The biggest T[i][j][k] is: T[162][113][24] = 5
+-----------------p: 427---------------------s: 114-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       162      |      113      |      937090     |     937087      |      -3     |     54889
+       160      |      104      |     882187     |     882198      |      11     |     299467
+       149      |      66      |     582717     |     582731      |      14     |     179783
+       143      |      51      |     402937     |     402948      |      11     |     402948
+       130      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 4
+Running time of creating cij is: 28.889 ms
+Running time of dp is: 36.425 ms
+Totle running time is: 65.314 ms
+seq_name: sp|P37645|YHJG_ECOLI
+The biggest T[i][j][k] is: T[48][113][52] = 6
+-----------------p: 687---------------------s: 114-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       48      |      113      |      937090     |     937115      |      25     |     246217
+       40      |      85      |     690890     |     690898      |      8     |     35131
+       39      |      80      |     655749     |     655767      |      18     |     116655
+       35      |      62      |     539094     |     539112      |      18     |     35141
+       34      |      60      |     503953     |     503971      |      18     |     503971
+       17      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 3
+Running time of creating cij is: 41.796 ms
+Running time of dp is: 65.808 ms
+Totle running time is: 107.604 ms
+seq_name: sp|P76193|YNHG_ECOLI
+The biggest T[i][j][k] is: T[146][113][0] = 5
+-----------------p: 335---------------------s: 114-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       146      |      113      |      937090     |     937063      |      -27     |     354086
+       134      |      67      |     582991     |     582977      |      -14     |     434493
+       118      |      19      |     148501     |     148484      |      -17     |     35131
+       117      |      15      |     113360     |     113353      |      -7     |     113353
+       113      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 4
+Running time of creating cij is: 23.208 ms
+Running time of dp is: 29.127 ms
+Totle running time is: 52.335 ms
+seq_name: sp|P76347|YEEJ_ECOLI
+The biggest T[i][j][k] is: T[461][113][16] = 6
+-----------------p: 2001---------------------s: 114-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       461      |      113      |      937090     |     937079      |      -11     |     397992
+       447      |      62      |     539094     |     539087      |      -7     |     35141
+       446      |      58      |     503950     |     503946      |      -4     |     184711
+       438      |      41      |     319232     |     319235      |      3     |     284094
+       428      |      3      |     35142     |     35141      |      -1     |     35141
+       427      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 6
+Running time of creating cij is: 182.435 ms
+Running time of dp is: 283.233 ms
+Totle running time is: 465.668 ms
+The biggest T[i][j][k] is: T[38][113][2] = 4
+-----------------p: 359---------------------s: 114-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       38      |      113      |      937090     |     937065      |      -25     |     577478
+       15      |      48      |     359589     |     359587      |      -2     |     140541
+       9      |      27      |     219041     |     219046      |      5     |     219046
+       0      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 5
+Running time of creating cij is: 38.245 ms
+Running time of dp is: 33.515 ms
+Totle running time is: 71.76 ms
+seq_name: sp|P0A7N4|RL32_ECOLI
+The biggest T[i][j][k] is: T[38][113][11] = 5
+-----------------p: 58---------------------s: 114-------------------------------- 
+Protein_index  |  Peak_index  |  Peak_oriPosition  |  Peak_modPosition  |  Shifting  |  Matched_mass  |  delta
+       38      |      113      |      937090     |     937074      |      -16     |     281598
+       28      |      78      |     655475     |     655476      |      1     |     148774
+       22      |      61      |     506702     |     506702      |      0     |     471561
+       7      |      3      |     35142     |     35141      |      -1     |     35141
+       6      |      0      |     0     |     0      |      0     |     0
+The total modification of this alignment is: 3
+Running time of creating cij is: 9.962 ms
+Running time of dp is: 4.578 ms
+Totle running time is: 14.54 ms
+seq_name: sp|P0A8V2|RPOB_ECOLI
